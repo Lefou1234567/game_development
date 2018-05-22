@@ -6,7 +6,6 @@ window.onload = start;
 
 function start() {
 	setup();
-	controllingLoop();
 	startLooping();
 }
 
